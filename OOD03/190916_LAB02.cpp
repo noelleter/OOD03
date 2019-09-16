@@ -24,7 +24,7 @@ public:
         std:std::cout << "X= " << x << ", Y= " << y << std::endl;
     }
 };
-
+/*
  int main() {
      SetValue obj;
      obj.setXY(33, 44);
@@ -32,4 +32,4 @@ public:
      system("read");    // window system("pause"); 대신 사용, 콘솔창 멈추는 기능
      return 0;
  }
-
+*/
